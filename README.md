@@ -1,4 +1,4 @@
-### Hello! 😀
+### Hello! 👋
 
 I do competitive programming. Add me on Codeforces!
 
