@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I do competitive programming. Add me on Codeforces!
+I compete on Codeforces and Atcoder. Add me!
 
 [![Codeforces Badge](https://run.kaist.ac.kr/badges/codeforces/crackersamdjam.svg)](https://codeforces.com/profile/crackersamdjam)
 [![Atcoder Badge](https://run.kaist.ac.kr/badges/atcoder/crackersamdjam.svg)](https://atcoder.jp/users/crackersamdjam)
