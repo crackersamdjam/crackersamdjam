@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 😀
+
+I do competitive programming. Add me on Codeforces!
+  
+![Codeforces Badge](https://run.kaist.ac.kr/badges/codeforces/crackersamdjam.svg)
 
 <!--
 **crackersamdjam/crackersamdjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
