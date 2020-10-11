@@ -3,6 +3,10 @@
 I do competitive programming. Add me on Codeforces!
 
 [![Codeforces Badge](https://run.kaist.ac.kr/badges/codeforces/crackersamdjam.svg)](https://codeforces.com/profile/crackersamdjam)
+[![Atcoder Badge](https://run.kaist.ac.kr/badges/atcoder/crackersamdjam.svg)](https://atcoder.jp/users/crackersamdjam)
+
+<!-- Badges https://codeforces.com/blog/entry/82215 -->
+
 
 <!--
 **crackersamdjam/crackersamdjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
