@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I compete on Codeforces and Atcoder. Add me!
+I compete on Codeforces. Add me!
 
 [![DMOJ Badge](http://mosesxu.ca/badges/dmoj/crackersamdjam.svg)](https://www.dmoj.ca/user/crackersamdjam)
 [![Codeforces Badge](https://run.kaist.ac.kr/badges/codeforces/crackersamdjam.svg)](https://codeforces.com/profile/crackersamdjam)
@@ -8,19 +8,3 @@ I compete on Codeforces and Atcoder. Add me!
 [![Topcoder Badge](https://run.kaist.ac.kr/badges/topcoder/crackersamdjam.svg)](https://www.topcoder.com/members/crackersamdjam)
 
 <!-- Badges https://codeforces.com/blog/entry/82215 -->
-
-
-<!--
-**crackersamdjam/crackersamdjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
